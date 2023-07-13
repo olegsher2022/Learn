@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53862046-d61e-4c92-a2e3-6a70bf85fd0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FibonacciTest.java" afterDir="false" />
+    <list default="true" id="53862046-d61e-4c92-a2e3-6a70bf85fd0e" name="Changes" comment="Fibonacci">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FibonacciTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.FibonacciTest">
+  <component name="RunManager" selected="JUnit.FibonacciTest.testFibonacci">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Learn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Learn" />
       <option name="PACKAGE_NAME" value="" />
@@ -75,8 +80,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FibonacciTest" />
         <item itemvalue="JUnit.FibonacciTest.testFibonacci" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.FibonacciTest" />
       </list>
     </recent_temporary>
   </component>
@@ -88,8 +94,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689238192233</updated>
-      <workItem from="1689238193317" duration="1072000" />
+      <workItem from="1689238193317" duration="1401000" />
     </task>
+    <task id="LOCAL-00001" summary="Fibonacci">
+      <option name="closed" value="true" />
+      <created>1689239295085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689239295085</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fibonacci" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci" />
   </component>
 </project>
