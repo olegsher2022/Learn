@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        int n = 10; // Change this value to compute a different Fibonacci number
+        int result = Fibonacci.fibonacci(n);
+        System.out.println("Fibonacci number at index " + n + ": " + result);
     }
 }
